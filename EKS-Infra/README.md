@@ -1,1 +1,1 @@
-# eks-setup-terraform
+# EKS-setup-terraform
